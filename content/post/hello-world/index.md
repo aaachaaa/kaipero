@@ -1,7 +1,7 @@
 ---
 title: 你好，欢迎来到“Solarion”
 description: 这是我的oc世界
-date: 2026-4-5
+date: 2026-04-05
 image: cover.jpg
 categories:
     - Example Category
