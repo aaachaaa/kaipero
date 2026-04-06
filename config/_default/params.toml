@@ -20,6 +20,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = "🍥"
     subtitle = "命途&变量"
+    avatar = "/img/avatar.png"
 
 [article]
     headingAnchor = false
@@ -55,7 +56,3 @@ SortBy              = "default"
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
 
-[sidebar.avatar]
-    enabled = true          # 启用头像
-    local = true            # 使用本地图片
-    src = "img/t1.png"  # 图片路径（相对于 assets 目录）
