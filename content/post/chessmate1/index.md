@@ -1,5 +1,5 @@
 ---
-title: [KING]——lcarus
+title: KING——lcarus
 description: 角色——伊卡洛斯
 date: 2026-04-05
 image: 
