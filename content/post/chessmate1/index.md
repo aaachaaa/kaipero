@@ -30,4 +30,5 @@ weight: 1       # You can add weight to some posts to override the default sorti
 如此高傲的王，怎会任凭命运拉扯？
 在冲破神谕的那一刻，伊卡洛斯会与这一切做个了断——无论是世界的命运，还是他的命运。
 
-
+![Image 1](yikals_1.png)
+>>"太阳，无权为我授勋"
