@@ -6,7 +6,7 @@ image: sl.jpg
 categories:
     - solarion
 tags:
-    - Solarion
+    - SOL_01
 ---
 
 ## 前言
