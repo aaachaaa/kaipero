@@ -6,7 +6,7 @@ image: 6B7FD1232FD35AD7135FF2BEE94B677B.jpg
 categories:
     - solarion
 tags:
-    - Solarion
+    - SOL_01
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
